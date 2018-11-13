@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	ut "github.com/gostores/translator"
+	ut "github.com/govenue/translator"
 )
 
 const (

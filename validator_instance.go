@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	ut "github.com/gostores/translator"
+	ut "github.com/govenue/translator"
 )
 
 const (

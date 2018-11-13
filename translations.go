@@ -1,6 +1,6 @@
 package validator
 
-import ut "github.com/gostores/translator"
+import ut "github.com/govenue/translator"
 
 // TranslationFunc is the function type used to register or override
 // custom translations

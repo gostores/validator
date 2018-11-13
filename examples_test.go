@@ -3,7 +3,7 @@ package validator_test
 // import (
 // 	"fmt"
 
-// 	"github.com/gostores/validator"
+// 	"github.com/govenue/validator"
 // )
 
 // func ExampleValidate_new() {

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gostores/locales"
-	ut "github.com/gostores/translator"
-	"github.com/gostores/validator"
+	"github.com/govenue/locales"
+	ut "github.com/govenue/translator"
+	"github.com/govenue/validator"
 )
 
 // RegisterDefaultTranslations registers a set of default translations
